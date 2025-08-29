@@ -1,5 +1,5 @@
 # PPTData
-This dataset contains 292 chinese slides-paper pairs ,only some data are included here because of copyright.To get all the dataset ,please contact author:15601319577@163.com. 
+This dataset contains 292 chinese slides-paper pairs ,only some data are included here because of copyright.To get all the dataset ,please contact author thorough paper information. 
 
 由于部分论文为原作者发表前的手稿，考虑到版权及原作者的意愿，该数据集未全部公开。如需获取全部数据，请根据论文信息联系作者.
 
